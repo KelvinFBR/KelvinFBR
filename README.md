@@ -40,7 +40,7 @@ Soy Apasionado de la tecnología, me encanta convertir ideas en realidades, Actu
 <div align='center'>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinFBR&layout=compact&theme=dark&count_private=true" alt="My Github Stats">
   
-  <img  src="https://github-readme-stats.vercel.app/api?username=KelvinFBR&&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="My Github Stats">
+  <img  src="https://github-readme-stats.vercel.app/api?username=KelvinFBR&&show_icons=true&theme=dark&count_private=True&include_all_commits=True" alt="My Github Stats">
 <div/> 
   
   

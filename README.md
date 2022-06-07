@@ -17,13 +17,18 @@ Soy Apasionado de la tecnología, me encanta convertir ideas en realidades, Actu
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
+<div align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinFBR&layout=compact&theme=radical&count_private=true" alt="My Github Stats">
+<div/> 
  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinFBR&layout=compact&theme=radical&count_private=true" alt="My Github Stats"> <img align='right' alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+<div align='center'>
+<!--   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /> -->
+<img align='center' alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+<div/> 
 
 
- <a href="https://twitter.com/shreyaaaaaaaaa_">
-  <img align="left" alt="Shreya's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 
 
 

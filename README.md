@@ -1,4 +1,7 @@
 ### Hola👋, Soy Kelvin F.  
+                                                         
+Soy Apasionado de la tecnología, me encanta convertir ideas en realidades, Actualmente estoy en formación como Frontend Developer, específicamente con React.js y Sass y algo más 💻. Me encanta el desarrollo web y estoy abierto a aprender nuevas tecnologías.
+
 
 <a href="https://www.linkedin.com/in/kelvin-f-baez-rodriguez-a972591b9/">
   <img align="left" alt="Kelvin's LinkdeIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />
@@ -10,8 +13,8 @@
   <img align="left" alt="Kelvin's Instagram" width="22px" src="https://cdn-icons.flaticon.com/png/512/3955/premium/3955024.png?token=exp=1654582582~hmac=9b385f8583a1afbd9529b9d0afd9a86f" />
 </a>
 
-</br>                                                              
-Soy Apasionado de la tecnología, me encanta convertir ideas en realidades, Actualmente estoy en formación como Frontend Developer, específicamente con React.js y Sass y algo más 💻. Me encanta el desarrollo web y estoy abierto a aprender nuevas tecnologías.
+</br>     
+
 
 <img align='right' alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 

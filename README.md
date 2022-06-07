@@ -1,4 +1,17 @@
-### Hola, Soy Kelvin 👋 
+### Hola👋, Soy Kelvin F.  
+
+<a href="https://www.linkedin.com/in/kelvin-f-baez-rodriguez-a972591b9/">
+  <img align="left" alt="Kelvin's LinkdeIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />
+</a>
+<a href="https://t.me/KelvinFBR">
+  <img align="left" alt="Kelvin's LinkdeIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" />
+</a>
+<a href="https://www.instagram.com/kelvin_1299/">
+  <img align="left" alt="Kelvin's Instagram" width="22px" src="https://cdn-icons.flaticon.com/png/512/3955/premium/3955024.png?token=exp=1654582582~hmac=9b385f8583a1afbd9529b9d0afd9a86f" />
+</a>
+<br>
+
+
                                                                 
 Soy Apasionado de la tecnología, me encanta convertir ideas en realidades, Actualmente estoy en formación como Frontend Developer, específicamente con React.js y Sass y algo más 💻. Me encanta el desarrollo web y estoy abierto a aprender nuevas tecnologías.
 
@@ -15,6 +28,7 @@ Soy Apasionado de la tecnología, me encanta convertir ideas en realidades, Actu
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-tailwindcss-0EA5E9?style=flat&logo=tailwindcss&logoColor=white">
 <img src="https://img.shields.io/badge/-Postgresql-1572B6?style=flat&logo=postgresql&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-python-1572B6?style=flat&logo=python&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
@@ -22,6 +36,7 @@ Soy Apasionado de la tecnología, me encanta convertir ideas en realidades, Actu
 <div align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinFBR&layout=compact&theme=radical&count_private=true" alt="My Github Stats">
 <div/> 
+  
  
 <!-- 
 <div align='center'>

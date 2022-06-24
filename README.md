@@ -1,4 +1,4 @@
-### Hola👋, Soy Kelvin F.  
+### Hola👋, Soy Kelvin F. Baez Rodriguez  
                                                          
 Soy Apasionado de la tecnología, me encanta convertir ideas en realidades, Actualmente estoy en formación como Frontend Developer, específicamente con React.js y Sass y algo más 💻. Me encanta el desarrollo web y estoy abierto a aprender nuevas tecnologías.
 

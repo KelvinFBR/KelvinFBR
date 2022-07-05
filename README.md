@@ -9,9 +9,7 @@ Soy Apasionado de la tecnología, me encanta convertir ideas en realidades, Actu
 <a href="https://t.me/KelvinFBR">
   <img align="left" alt="Kelvin's LinkdeIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" />
 </a>
-<a href="https://www.instagram.com/kelvin_1299/">
-  <img align="left" alt="Kelvin's Instagram" width="22px" src="https://cdn-icons.flaticon.com/png/512/3955/premium/3955024.png?token=exp=1654582582~hmac=9b385f8583a1afbd9529b9d0afd9a86f" />
-</a>
+
 </br>     
 
 <!-- <div aling="center">

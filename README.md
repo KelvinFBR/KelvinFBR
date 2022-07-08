@@ -23,6 +23,9 @@ Soy Apasionado de la tecnología, me encanta convertir ideas en realidades, Actu
 
 * [Ahorcado](https://kelvinfbr.github.io/Ahorcado/)
 * [Codificador](https://kelvinfbr.github.io/Encriptador/)
+* [TodoList](kelvinfbr.github.io/todolist/)
+* [BlackJack](kelvinfbr.github.io/blackjack/)
+* [Porfolio](https://kelvin-f-baez-rodriguez-frontend-dev.netlify.app/)
 
 ## ⚡ Tecnologías & Herramientas
 

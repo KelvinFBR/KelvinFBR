@@ -3,13 +3,10 @@
 Soy Apasionado de la tecnología, me encanta convertir ideas en realidades, Actualmente estoy en formación como Frontend Developer, específicamente con React.js y Sass y algo más 💻. Me encanta el desarrollo web y estoy abierto a aprender nuevas tecnologías.
 
 
-<a href="https://www.linkedin.com/in/kelvin-f-baez-rodriguez-a972591b9/">
-  <img align="left" alt="Kelvin's LinkdeIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />
-</a>
-<a href="https://t.me/KelvinFBR">
-  <img align="left" alt="Kelvin's LinkdeIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" />
-</a>
-
+[![LinkedIn](https://img.shields.io/badge/Kelvin_F.-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/kelvin-f-baez-rodriguez-frontend-developer-student/)
+[![Twitter](https://img.shields.io/badge/@KelvinFBR-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/KelvinFBR)
+[![telegram](https://img.shields.io/badge/KelvinFBR-0077B5?style=for-the-badge&logo=telegram&logoColor=white&labelColor=101010)](https://t.me/KelvinFBR)
+[![Web](https://img.shields.io/badge/KelvinF.com-5f19dd?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://kelvin-f-baez-rodriguez-frontend-dev.netlify.app/)
 </br>     
 
 <!-- <div aling="center">
@@ -30,32 +27,20 @@ Soy Apasionado de la tecnología, me encanta convertir ideas en realidades, Actu
 
 ## ⚡ Tecnologías & Herramientas
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![Git](https://img.shields.io/badge/Git-b32c07?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
-[![Github](https://img.shields.io/badge/Github-5f5f5f?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)
+![Github](https://img.shields.io/badge/Github-5f5f5f?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=101010)
+![Tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=Tailwindcss&logoColor=white&labelColor=101010)
+![Postgresql](https://img.shields.io/badge/Postgresql-1572B6?style=for-the-badge&logo=Postgresql&logoColor=FFFFFF&labelColor=101010)
+![Python](https://img.shields.io/badge/Python-1572B6?style=for-the-badge&logo=Python&logoColor=FFFFFF&labelColor=101010)
+![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=FFFFFF&labelColor=101010)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=FFFFFF&labelColor=101010)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=Trello&logoColor=FFFFFF&labelColor=101010)
+![VSCODE](https://img.shields.io/badge/VS-VSCode-1572B6?style=for-the-badge&logo=vscode3&logoColor=white&labelColor=101010)
 
-
-
-[![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-0EA5E9?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
-[![Postgresql](https://img.shields.io/badge/-Postgresql-1572B6?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
-[![Python](https://img.shields.io/badge/-Python-1572B6?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
-<!-- [![Github](https://img.shields.io/badge/Github-5f5f5f?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
-[![Github](https://img.shields.io/badge/Github-5f5f5f?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
-[![Github](https://img.shields.io/badge/Github-5f5f5f?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]() -->
-
-
-
-
-
-
-<img src="https://img.shields.io/badge/-tailwindcss-0EA5E9?style=flat&logo=tailwindcss&logoColor=white">
-<img src="https://img.shields.io/badge/-Postgresql-1572B6?style=flat&logo=postgresql&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-python-1572B6?style=flat&logo=python&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
 <div align='center'>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinFBR&layout=compact&theme=dark&count_private=true" alt="My Github Stats">

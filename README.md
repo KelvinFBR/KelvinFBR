@@ -37,15 +37,19 @@ Soy Apasionado de la tecnología, me encanta convertir ideas en realidades, Actu
 [![Github](https://img.shields.io/badge/Github-5f5f5f?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
 
 
-[![Github](https://img.shields.io/badge/-tailwindcss-0EA5E9?style=flat&logo=tailwindcss&logoColor=white)]()
+
+[![Github](https://img.shields.io/badge/Tailwindcss-0EA5E9?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
+[![Github](https://img.shields.io/badge/Postgresql-1572B6?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
+[![Github](https://img.shields.io/badge/Python-1572B6?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
+<!-- [![Github](https://img.shields.io/badge/Github-5f5f5f?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
 [![Github](https://img.shields.io/badge/Github-5f5f5f?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
-[![Github](https://img.shields.io/badge/Github-5f5f5f?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
+[![Github](https://img.shields.io/badge/Github-5f5f5f?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]() -->
 
 
 
 
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+
+
 <img src="https://img.shields.io/badge/-tailwindcss-0EA5E9?style=flat&logo=tailwindcss&logoColor=white">
 <img src="https://img.shields.io/badge/-Postgresql-1572B6?style=flat&logo=postgresql&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-python-1572B6?style=flat&logo=python&logoColor=FFFFFF">

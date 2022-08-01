@@ -25,6 +25,7 @@ Soy Apasionado de la tecnología, me encanta convertir ideas en realidades, Actu
 * [Codificador](https://kelvinfbr.github.io/Encriptador/)
 * [TodoList](https://kelvinfbr.github.io/TodoList/)
 * [BlackJack](https://kelvinfbr.github.io/BlackJack/)
+* [E-commerce](https://kelvinfbr.github.io/E-commerce-AluraGreek/index.html)
 * [Porfolio](https://kelvin-f-baez-rodriguez-frontend-dev.netlify.app/)
 
 ## ⚡ Tecnologías & Herramientas

@@ -6,7 +6,7 @@ Soy Apasionado de la tecnología, me encanta convertir ideas en realidades, Actu
 [![LinkedIn](https://img.shields.io/badge/Kelvin_F.-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/kelvin-f-baez-rodriguez-frontend-developer-student/)
 [![Twitter](https://img.shields.io/badge/@KelvinFBR-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/KelvinFBR)
 [![telegram](https://img.shields.io/badge/KelvinFBR-0077B5?style=for-the-badge&logo=telegram&logoColor=white&labelColor=101010)](https://t.me/KelvinFBR)
-[![Web](https://img.shields.io/badge/KelvinF.com-5f19dd?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://kelvin-f-baez-rodriguez-frontend-dev.netlify.app/)
+[![Web](https://img.shields.io/badge/KelvinF.com-1DA1F2?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://kelvin-f-baez-rodriguez-frontend-dev.netlify.app/)
 </br>     
 
 <!-- <div aling="center">

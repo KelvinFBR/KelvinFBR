@@ -24,6 +24,7 @@ Soy Apasionado de la tecnología, me encanta convertir ideas en realidades, Actu
 * [BlackJack](https://kelvinfbr.github.io/BlackJack/)
 * [E-commerce](https://kelvinfbr.github.io/E-commerce-AluraGreek/index.html)
 * [Porfolio](https://kelvin-f-baez-rodriguez-frontend-dev.netlify.app/)
+* [GridPhotos](https://grid-photos-react.netlify.app/)
 
 ## ⚡ Tecnologías & Herramientas
 

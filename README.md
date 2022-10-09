@@ -33,6 +33,7 @@ Soy Apasionado de la tecnología, me encanta convertir ideas en realidades, Actu
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)
 ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)
 ![Github](https://img.shields.io/badge/Github-5f5f5f?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=101010)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=101010)
 ![Tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=Tailwindcss&logoColor=white&labelColor=101010)
 ![Postgresql](https://img.shields.io/badge/Postgresql-1572B6?style=for-the-badge&logo=Postgresql&logoColor=FFFFFF&labelColor=101010)
@@ -41,6 +42,7 @@ Soy Apasionado de la tecnología, me encanta convertir ideas en realidades, Actu
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=FFFFFF&labelColor=101010)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=Trello&logoColor=FFFFFF&labelColor=101010)
 ![VSCODE](https://img.shields.io/badge/VS-VSCode-1572B6?style=for-the-badge&logo=vscode3&logoColor=white&labelColor=101010)
+
 
 
 <div align='center'>

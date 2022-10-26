@@ -42,6 +42,7 @@ Soy Apasionado de la tecnología, me encanta convertir ideas en realidades, Actu
 ![Postgresql](https://img.shields.io/badge/Postgresql-1572B6?style=for-the-badge&logo=Postgresql&logoColor=FFFFFF&labelColor=101010)
 ![Python](https://img.shields.io/badge/Python-1572B6?style=for-the-badge&logo=Python&logoColor=FFFFFF&labelColor=101010)
 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=FFFFFF&labelColor=101010)
+![testing-library](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red&labelColor=101010)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=FFFFFF&labelColor=101010)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=Trello&logoColor=FFFFFF&labelColor=101010)
 ![VSCODE](https://img.shields.io/badge/VS-VSCode-1572B6?style=for-the-badge&logo=vscode3&logoColor=white&labelColor=101010)

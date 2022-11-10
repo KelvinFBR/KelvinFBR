@@ -19,12 +19,13 @@ Soy Apasionado de la tecnología, me encanta convertir ideas en realidades, Actu
 ## 💻 Proyectos   
 
 * [Ahorcado](https://kelvinfbr.github.io/Ahorcado/)
-* [Codificador](https://kelvinfbr.github.io/Encriptador/)
 * [TodoList](https://kelvinfbr.github.io/TodoList/)
 * [BlackJack](https://kelvinfbr.github.io/BlackJack/)
 * [E-commerce](https://kelvinfbr.github.io/E-commerce-AluraGreek/index.html)
 * [Porfolio](https://kelvin-f-baez-rodriguez-frontend-dev.netlify.app/)
 * [GridPhotos](https://grid-photos-react.netlify.app/)
+* [Notes App](https://notes-app-react-k.netlify.app/)
+* [insure-landing-page](https://insure-landing-page-react.netlify.app/)
 
 ## ⚡ Tecnologías & Herramientas
 

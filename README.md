@@ -42,6 +42,7 @@ Soy Apasionado de la tecnología, me encanta convertir ideas en realidades, Actu
 ![Tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=Tailwindcss&logoColor=white&labelColor=101010)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)
 ![Postgresql](https://img.shields.io/badge/Postgresql-1572B6?style=for-the-badge&logo=Postgresql&logoColor=FFFFFF&labelColor=101010)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)
 ![Python](https://img.shields.io/badge/Python-1572B6?style=for-the-badge&logo=Python&logoColor=FFFFFF&labelColor=101010)
 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=FFFFFF&labelColor=101010)
 ![testing-library](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red&labelColor=101010)

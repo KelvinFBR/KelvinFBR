@@ -1,7 +1,6 @@
 ### Hola👋, Soy Kelvin F. Baez Rodriguez  
                                                          
-Soy Apasionado de la tecnología, me encanta convertir ideas en realidades, Actualmente estoy en formación como Frontend Developer, específicamente con React.js y Redux y algo más 💻. Me encanta el desarrollo web y estoy abierto a aprender nuevas tecnologías.
-
+Soy Apasionado de la tecnología, me encanta convertir ideas en realidades, Actualmente estoy en formación como FullSatck Developer pero me especializo en el Frontend,  actualmente estoy estudiando las tecnologías de Node.js y MongoDB y algo más 💻.
 
 [![LinkedIn](https://img.shields.io/badge/Kelvin_F.-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/kelvin-f-baez-rodriguez-frontend-developer-student/)
 [![Twitter](https://img.shields.io/badge/@KelvinFBR-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/KelvinFBR)

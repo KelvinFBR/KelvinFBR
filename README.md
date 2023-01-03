@@ -25,6 +25,7 @@ Soy Apasionado de la tecnología, me encanta convertir ideas en realidades, Actu
 * [GridPhotos](https://grid-photos-react.netlify.app/)
 * [insure-landing-page](https://insure-landing-page-react.netlify.app/)
 * [Notes App](https://notes-app-react-k.netlify.app/)
+* [Calendar App](https://calendar-kelvin-app.netlify.app/)
 
 
 ## ⚡ Tecnologías & Herramientas
@@ -32,6 +33,7 @@ Soy Apasionado de la tecnología, me encanta convertir ideas en realidades, Actu
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)
 ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)
 ![Github](https://img.shields.io/badge/Github-5f5f5f?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=101010)
@@ -42,8 +44,10 @@ Soy Apasionado de la tecnología, me encanta convertir ideas en realidades, Actu
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)
 ![Postgresql](https://img.shields.io/badge/Postgresql-1572B6?style=for-the-badge&logo=Postgresql&logoColor=FFFFFF&labelColor=101010)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)
 ![Python](https://img.shields.io/badge/Python-1572B6?style=for-the-badge&logo=Python&logoColor=FFFFFF&labelColor=101010)
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&labelColor=101010)
 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=FFFFFF&labelColor=101010)
 ![testing-library](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red&labelColor=101010)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=FFFFFF&labelColor=101010)

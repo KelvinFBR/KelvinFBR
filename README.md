@@ -1,6 +1,9 @@
 ### Hola👋, Soy Kelvin F. Baez Rodriguez  
                                                          
-Soy Apasionado de la tecnología, me encanta convertir ideas en realidades, Actualmente estoy en formación como FullSatck Developer pero me especializo en el Frontend,  actualmente estoy estudiando las tecnologías de Nest.js con GraphQL y algo más 💻.
+Soy un desarrollador Fullstack con más de 1 año de experiencia en el desarrollo de aplicaciones web de alta calidad. Soy apasionado
+por la tecnología y siempre estoy buscando formas de mejorar mis habilidades y aprender nuevas tecnologías.
+
+Tengo experiencia en el desarrollo de aplicaciones tanto en el lado del cliente como del servidor, y he trabajado en proyectos que van desde pequeñas aplicaciones hasta sistemas de gestión de contenido complejos. Actualmente Me encuentro estudiando las tecnologías de Nest.js con GraphQL.
 
 [![LinkedIn](https://img.shields.io/badge/Kelvin_F.-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/kelvin-f-baez-rodriguez-frontend-developer-student/)
 [![Twitter](https://img.shields.io/badge/@KelvinFBR-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/KelvinFBR)

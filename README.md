@@ -26,7 +26,7 @@ Tengo experiencia en el desarrollo de aplicaciones tanto en el lado del cliente 
 * [E-commerce](https://kelvinfbr.github.io/E-commerce-AluraGreek/index.html)
 * [Porfolio](https://kelvin-f-baez-rodriguez-frontend-dev.netlify.app/)
 * [GridPhotos](https://grid-photos-react.netlify.app/)
-* [insure-landing-page](https://insure-landing-page-react.netlify.app/)
+* [Memory card](https://memory-game-cards-react.netlify.app/)
 * [Notes App](https://notes-app-react-k.netlify.app/)
 * [Calendar App](https://calendar-kelvin-app.netlify.app/)
 
